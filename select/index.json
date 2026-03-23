@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Who I Smoke",
+  "base_artist": "FastMoney Goon、Spinabenz、Yungeen Ace",
+  "createdAt": "2026-03-23T06:53:57.089950Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Who I Smoke",
+      "artist": "Spinabenz",
+      "has_synced": true,
+      "path": "select/01_Who_I_Smoke_Spinabenz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Who I Smoke",
+      "artist": "Yungeen Ace feat. Spinabenz, FastMoney Goon & Whoppa Wit Da Choppa",
+      "has_synced": true,
+      "path": "select/02_Who_I_Smoke_Yungeen_Ace_feat._Spinabenz,_FastMoney_Goon_&_Whoppa_Wit_Da_Choppa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Who I Smoke (feat. Whoppa Wit Da Choppa)",
+      "artist": "Yungeen Ace, Spinabenz & FastMoney Goon",
+      "has_synced": true,
+      "path": "select/03_Who_I_Smoke_(feat._Whoppa_Wit_Da_Choppa)_Yungeen_Ace,_Spinabenz_&_FastMoney_Goon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Who I Smoke",
+      "artist": "PL3X feat. Spinabenz, Whoppa Wit Da Choppa, Yungeen Ace & FastMoney Goon",
+      "has_synced": false,
+      "path": "select/04_Who_I_Smoke_PL3X_feat._Spinabenz,_Whoppa_Wit_Da_Choppa,_Yungeen_Ace_&_FastMoney_Goon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Who I Smoke (feat. Whoppa Wit Da Choppa)",
+      "artist": "Yungeen Ace",
+      "has_synced": true,
+      "path": "select/05_Who_I_Smoke_(feat._Whoppa_Wit_Da_Choppa)_Yungeen_Ace.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Who I Smoke",
+      "artist": "FastMoney Goon",
+      "has_synced": true,
+      "path": "select/06_Who_I_Smoke_FastMoney_Goon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spinabenz, Whoppa Wit Da Choppa, Yungeen Ace, & FastMoney Goon - Who I Smoke (Official Music Video)",
+      "artist": "Spoww Visuals",
+      "has_synced": true,
+      "path": "select/07_Spinabenz,_Whoppa_Wit_Da_Choppa,_Yungeen_Ace,_&_FastMoney_Goon_-_Who_I_Smoke_(Of_Spoww_Visuals.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Who I Smoke",
+      "artist": "Yungeen Ace",
+      "has_synced": true,
+      "path": "select/08_Who_I_Smoke_Yungeen_Ace.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Who I Smoke",
+      "artist": "Yungeen Ace, Spinabenz & FastMoney Goon feat. Whoppa Wit da Choppa",
+      "has_synced": true,
+      "path": "select/09_Who_I_Smoke_Yungeen_Ace,_Spinabenz_&_FastMoney_Goon_feat._Whoppa_Wit_da_Choppa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Who I Smoke",
+      "artist": "d6ni4l",
+      "has_synced": false,
+      "path": "select/10_Who_I_Smoke_d6ni4l.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Who I Smoke",
+      "artist": "Yungeen Ace, Spinabenz, FastMoney Goon, Whoppa Wit Da Choppa",
+      "has_synced": true,
+      "path": "select/11_Who_I_Smoke_Yungeen_Ace,_Spinabenz,_FastMoney_Goon,_Whoppa_Wit_Da_Choppa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Who I Smoke",
+      "artist": "Spinabenz, Whoppa Wit Da Choppa, Yungeen Ace, & FastMoney Goon",
+      "has_synced": false,
+      "path": "select/12_Who_I_Smoke_Spinabenz,_Whoppa_Wit_Da_Choppa,_Yungeen_Ace,_&_FastMoney_Goon.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Who I Smoke",
+      "artist": "Spinabenz",
+      "has_synced": true,
+      "path": "select/13_Who_I_Smoke_Spinabenz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Who I Smoke",
+      "artist": "Spinabenz/Yungeen Ace/FastMoney Goon/Whoppa Wit Da Choppa",
+      "has_synced": true,
+      "path": "select/14_Who_I_Smoke_Spinabenz_Yungeen_Ace_FastMoney_Goon_Whoppa_Wit_Da_Choppa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Who I Smoke (Paused)",
+      "artist": "Yungeen Ace",
+      "has_synced": true,
+      "path": "select/15_Who_I_Smoke_(Paused)_Yungeen_Ace.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Who I Smoke",
+      "artist": "Spinabenz, Whoppa Wit da Choppa, Yungeen Ace & FastMoney Goon",
+      "has_synced": false,
+      "path": "select/16_Who_I_Smoke_Spinabenz,_Whoppa_Wit_da_Choppa,_Yungeen_Ace_&_FastMoney_Goon.txt"
+    }
+  ]
+}
